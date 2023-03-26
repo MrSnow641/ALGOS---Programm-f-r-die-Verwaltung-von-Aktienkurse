@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1679312912 source:c:\users\robert dulca\documents\fhtw bachelor\semester 2\algorithmen und datenstrukturen\uebung1_hashtabellen_seidlmann_dulca_abgabe\uebung1_hashtabellen_seidlmann_dulca_codeblocks\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<iomanip>
+	"HashTable.h"
+
+1679312968 c:\users\robert dulca\documents\fhtw bachelor\semester 2\algorithmen und datenstrukturen\uebung1_hashtabellen_seidlmann_dulca_abgabe\uebung1_hashtabellen_seidlmann_dulca_codeblocks\hashtable.h
+	<iostream>
+	<string>
+	<array>
+	<fstream>
+	<sstream>
+	<cmath>
+	<tuple>
+
